@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android Layout</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="linearlayout">Linear Layout</string>
+    <string name="relativelayout">Relative Layout</string>
+    <string name="tablelayout">Table Layout</string>
+    <string name="framelayout">Frame Layout</string>
+    <string name="gridlayout">Grid Layout</string>
+    <string name="constraint">Constraint Layout</string>
+
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Email ID</string>
+    <string name="submit">Submit</string>
+
+    <string name="action_settings">Logout</string>
+</resources>
